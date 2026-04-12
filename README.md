@@ -53,6 +53,13 @@
 
 - [topics/_template.md](topics/_template.md)
 
+## Веб-версия
+
+Спасибо [ildu00](https://github.com/ildu00) за веб-версию проекта с поиском:  
+[https://codopedia.ru/](https://codopedia.ru/)
+
+Сайт тянет данные из репозитория **DevGlossary**, поэтому словарем можно пользоваться как в Markdown на GitHub, так и через удобный веб-интерфейс.
+
 ## Темы словаря
 
 - [Architecture](topics/architecture.md) — архитектурные и проектировочные термины.
